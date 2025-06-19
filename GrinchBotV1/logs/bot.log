@@ -1,0 +1,86 @@
+2025-06-19 02:10:45,974 - root - INFO - Бот запускається...
+2025-06-19 02:10:45,975 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 02:10:46,022 - aiogram.dispatcher - INFO - Run polling for bot @GrinchTestoBot id=7902302058 - 'TestUniversityBot'
+2025-06-19 02:10:54,467 - root - INFO - Отримано повідомлення від 6732991826: 'Привіт'
+2025-06-19 02:10:55,766 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 02:10:55,766 - aiogram.event - INFO - Update id=850589269 is handled. Duration 1299 ms by bot id=7902302058
+2025-06-19 02:11:10,828 - root - INFO - Отримано повідомлення від 6732991826: 'Чим ти можеш мені допомогти ?'
+2025-06-19 02:11:12,277 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 02:11:12,278 - aiogram.event - INFO - Update id=850589270 is handled. Duration 1449 ms by bot id=7902302058
+2025-06-19 02:11:32,815 - root - INFO - Отримано повідомлення від 6732991826: 'Яка вартість навчання'
+2025-06-19 02:11:33,736 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 02:11:33,737 - aiogram.event - INFO - Update id=850589271 is handled. Duration 922 ms by bot id=7902302058
+2025-06-19 02:11:43,150 - root - INFO - Отримано повідомлення від 6732991826: 'Дякую'
+2025-06-19 02:11:43,995 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 02:11:43,995 - aiogram.event - INFO - Update id=850589272 is handled. Duration 845 ms by bot id=7902302058
+2025-06-19 02:46:37,545 - root - INFO - Бот запускається...
+2025-06-19 02:46:37,545 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 02:46:37,593 - aiogram.dispatcher - INFO - Run polling for bot @GrinchTestoBot id=7902302058 - 'TestUniversityBot'
+2025-06-19 02:46:56,060 - root - INFO - Отримано повідомлення від 6732991826: 'Привіт'
+2025-06-19 02:46:57,190 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 02:46:57,191 - aiogram.event - INFO - Update id=850589273 is handled. Duration 1132 ms by bot id=7902302058
+2025-06-19 02:47:16,766 - root - INFO - Отримано повідомлення від 6732991826: 'Де я можу переглянути розклад занять'
+2025-06-19 02:47:17,809 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 02:47:17,809 - aiogram.event - INFO - Update id=850589274 is handled. Duration 1043 ms by bot id=7902302058
+2025-06-19 02:47:51,838 - root - INFO - Отримано повідомлення від 6732991826: 'Яка структура університета, та яка вартість навчання на факультеті комп'ютерних наук'
+2025-06-19 02:47:53,596 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 02:47:53,597 - aiogram.event - INFO - Update id=850589275 is handled. Duration 1759 ms by bot id=7902302058
+2025-06-19 02:48:36,742 - root - INFO - Отримано повідомлення від 6732991826: 'яка вартість навчання за спеціальністю комп'ютерна інженерія ?'
+2025-06-19 02:48:38,081 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 02:48:38,081 - aiogram.event - INFO - Update id=850589276 is handled. Duration 1339 ms by bot id=7902302058
+2025-06-19 02:49:16,884 - root - INFO - Отримано повідомлення від 6732991826: 'Надай мені контакти приймальної комісії'
+2025-06-19 02:49:18,674 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 02:49:18,674 - aiogram.event - INFO - Update id=850589277 is handled. Duration 1790 ms by bot id=7902302058
+2025-06-19 02:49:53,701 - root - INFO - Отримано повідомлення від 6732991826: 'які контакти Іваніченка'
+2025-06-19 02:49:55,018 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 02:49:55,019 - aiogram.event - INFO - Update id=850589278 is handled. Duration 1317 ms by bot id=7902302058
+2025-06-19 02:50:07,408 - root - INFO - Отримано повідомлення від 6732991826: 'дякую'
+2025-06-19 02:50:08,203 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 02:50:08,204 - aiogram.event - INFO - Update id=850589279 is handled. Duration 795 ms by bot id=7902302058
+2025-06-19 02:54:41,053 - root - INFO - Бот запускається...
+2025-06-19 02:54:41,053 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 02:54:41,105 - aiogram.dispatcher - INFO - Run polling for bot @GrinchTestoBot id=7902302058 - 'TestUniversityBot'
+2025-06-19 02:57:53,277 - root - INFO - Бот запускається...
+2025-06-19 02:57:53,278 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 02:57:53,322 - aiogram.dispatcher - INFO - Run polling for bot @GrinchTestoBot id=7902302058 - 'TestUniversityBot'
+2025-06-19 03:51:28,356 - root - INFO - Бот запускається...
+2025-06-19 03:51:28,357 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 03:51:28,406 - aiogram.dispatcher - INFO - Run polling for bot @GrinchTestoBot id=7902302058 - 'TestUniversityBot'
+2025-06-19 03:51:52,397 - root - INFO - Отримано повідомлення від 6732991826: 'Привіт, надай мені контати декана'
+2025-06-19 03:51:53,981 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 03:51:53,982 - aiogram.event - INFO - Update id=850589280 is handled. Duration 1585 ms by bot id=7902302058
+2025-06-19 04:50:37,432 - root - INFO - Бот запускається...
+2025-06-19 04:50:37,433 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 04:50:37,475 - aiogram.dispatcher - INFO - Run polling for bot @GrinchTestoBot id=7902302058 - 'TestUniversityBot'
+2025-06-19 04:50:44,788 - root - INFO - Користувач 6732991826 (Dmytry) запустив бота командою /start.
+2025-06-19 04:50:44,948 - aiogram.event - INFO - Update id=850589281 is handled. Duration 161 ms by bot id=7902302058
+2025-06-19 04:51:44,099 - root - INFO - Бот запускається...
+2025-06-19 04:51:44,099 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 04:51:44,147 - aiogram.dispatcher - INFO - Run polling for bot @GrinchTestoBot id=7902302058 - 'TestUniversityBot'
+2025-06-19 04:51:46,670 - root - INFO - Користувач 6732991826 (Dmytry) запустив бота командою /start.
+2025-06-19 04:51:46,821 - aiogram.event - INFO - Update id=850589282 is handled. Duration 151 ms by bot id=7902302058
+2025-06-19 05:16:39,896 - root - INFO - Бот запускається...
+2025-06-19 05:16:39,897 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 05:16:39,945 - aiogram.dispatcher - INFO - Run polling for bot @GrinchTestoBot id=7902302058 - 'GrinchBotV1'
+2025-06-19 05:18:01,984 - root - INFO - Бот запускається...
+2025-06-19 05:18:01,984 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 05:18:02,028 - aiogram.dispatcher - INFO - Run polling for bot @GrinchTestoBot id=7902302058 - 'GrinchBotV1'
+2025-06-19 05:18:11,711 - root - INFO - Користувач 6732991826 (Dmytry) запустив бота командою /start.
+2025-06-19 05:18:11,874 - aiogram.event - INFO - Update id=850589284 is handled. Duration 163 ms by bot id=7902302058
+2025-06-19 05:21:28,425 - root - INFO - Користувач 6732991826 (Dmytry) запустив бота командою /start.
+2025-06-19 05:21:28,496 - aiogram.event - INFO - Update id=850589285 is handled. Duration 70 ms by bot id=7902302058
+2025-06-19 05:21:31,018 - root - INFO - Отримано повідомлення від 6732991826: 'Де я можу переглянути розклад ?'
+2025-06-19 05:21:32,666 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 05:21:32,667 - aiogram.event - INFO - Update id=850589286 is handled. Duration 1649 ms by bot id=7902302058
+2025-06-19 05:21:39,264 - root - INFO - Отримано повідомлення від 6732991826: 'Надійшли мені дані приймальної комісії'
+2025-06-19 05:21:40,932 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 05:21:40,932 - aiogram.event - INFO - Update id=850589287 is handled. Duration 1668 ms by bot id=7902302058
+2025-06-19 05:21:49,692 - root - INFO - Отримано повідомлення від 6732991826: 'Яка вартість навчання ?'
+2025-06-19 05:21:51,081 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 05:21:51,081 - aiogram.event - INFO - Update id=850589288 is handled. Duration 1389 ms by bot id=7902302058
+2025-06-19 05:22:05,756 - root - INFO - Отримано повідомлення від 6732991826: 'Як я можу зв'язатися з деканом факультету ?'
+2025-06-19 05:22:07,183 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 05:22:07,184 - aiogram.event - INFO - Update id=850589289 is handled. Duration 1428 ms by bot id=7902302058
+2025-06-19 05:22:15,006 - root - INFO - Отримано повідомлення від 6732991826: 'Дякую'
+2025-06-19 05:22:15,728 - root - INFO - Надано відповідь для 6732991826.
+2025-06-19 05:22:15,729 - aiogram.event - INFO - Update id=850589290 is handled. Duration 722 ms by bot id=7902302058
